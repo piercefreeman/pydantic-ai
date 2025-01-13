@@ -16,4 +16,4 @@ __all__ = (
     'UserError',
     '__version__',
 )
-__version__ = version('pydantic_ai_slim')
+__version__ = version('pydantic_ai')
